@@ -1,10 +1,19 @@
-# Getting Started with Create React App
+# Getting Started with the project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+-Use npm install to get the modules, if you want there's a .nvmrc file when you can find the version of node that I'm working.\
+-Use npm run dev to run with nodemon if you're applying changes.
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm run dev`
+
+Runs the app in the development mode with nodemon installed.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
 
 ### `npm start`
 
